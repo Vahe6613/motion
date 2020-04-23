@@ -1,6 +1,7 @@
 body {
-	background-color: var(--main-bg-color)
+	background-color: var(--main-bg-color);
 }
+
 .block {
 	width: 400px;
 	height: 400px;
@@ -11,12 +12,13 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
 .block:checked {
   url("color.css");
 }
+
 .link {
   color: #fff;	
   font-size: var(--inch);
   font-family: myriadPro;
-
 }
