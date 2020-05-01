@@ -10,9 +10,13 @@
 	--font_25: 25px;
 	--font_21: 21px;
 	--font_64: 64px;
+  --font_12: 12px;
+  --font_14: 14px;
+  --font_10: 10px;
+  --font_19: 19px;
 }
 @font-face {
-  font-family: myriadPro;
+  font-family: MyriadPro;
   src: url(fonts/MyriadProBold/MyriadProBold.woff);
 }
 @font-face {

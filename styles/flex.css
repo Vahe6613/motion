@@ -1,0 +1,13 @@
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-center {
+  font-family: Bariol;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  color: var(--white);
+  text-align: center;
+}
